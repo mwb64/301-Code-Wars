@@ -12,3 +12,4 @@ example:
 9=10-1
 
 Write a function named isNice/IsNice that returns true if its array argument is a Nice array, else false. You should also return false if input array has no elements.
+![alt text](pics/20171216_140046.jpg "screenshot")
