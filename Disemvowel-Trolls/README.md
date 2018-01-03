@@ -1,11 +1,3 @@
-[This is the link to the Code Wars Assignment](https://www.codewars.com/kata/disemvowel-trolls/train/javascript)
+[This is the link to the Code Wars Assignment](https://www.codewars.com/kata/format-words-into-a-sentence/train/javascript)
 
-Trolls are attacking your comment section!
-
-A common way to deal with this situation is to remove all of the vowels from the trolls' comments, neutralizing the threat.
-
-Your task is to write a function that takes a string and return a new string with all vowels removed.
-
-For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!".
-
-Note: for this kata y isn't considered a vowel.
+Complete the method so that it formats the words into a single comma separated value. The last word should be separated by the word 'and' instead of a comma. The method takes in an array of strings and returns a single formatted string. Empty string values should be ignored. Empty arrays or null/nil values being passed into the method should result in an empty string being returned.

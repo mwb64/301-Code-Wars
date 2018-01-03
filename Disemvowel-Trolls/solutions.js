@@ -1,4 +1,8 @@
 'use strict'
-function disemvowel(str) {
-  return str.replace(/[aeiou]/gi,"")
-}
+function solution(str){
+  //var beenReversed = solution.reverse(str);
+  var splitString = str.split('');
+  var reverseArrayString = splitString.reverse();
+  var rejoinArrayString = reverseArrayString.join('');
+  return rejoinArrayString;
+ }
